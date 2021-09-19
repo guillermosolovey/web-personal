@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-09-17T00:00:00Z"
-summary: ssss.
+summary: 
 # tags:
 # - Source Themes
 title: "Modeling human visual search: A combined Bayesian searcher and saliency map approach for eye movement guidance in natural scenes [preprint]"

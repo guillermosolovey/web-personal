@@ -60,7 +60,8 @@ authors:
 - Alexandra Vlassova
 - Takeo Watanabe
 - Josh Weisberg
-- Karen Yan & Masatoshi Yoshida -
+- Karen Yan
+- Masatoshi Yoshida
 doi: "10.1038/s41562-019-0531-8"
 featured: false
 image:
@@ -79,7 +80,7 @@ summary:
 title: "Opportunities and challenges for a maturing science of consciousness"
 url_code: 
 url_dataset: 
-url_pdf: https://www.nature.com/articles/s41562-019-0531-8
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

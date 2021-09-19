@@ -32,7 +32,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Frontiers in Medicine 8:640688'
+publication: 'Frontiers in Medicine 4, 2021'
 publication_short: ""
 publication_types:
 - "2"
@@ -44,7 +44,7 @@ summary:
 title: "Active Surveillance of Asymptomatic, Presymptomatic, and Oligosymptomatic SARS-CoV-2-Infected Individuals in Communities Inhabiting Closed or Semi-closed Institutions"
 url_code: 
 url_dataset: 
-url_pdf: https://www.frontiersin.org/articles/10.3389/fmed.2021.640688/full
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

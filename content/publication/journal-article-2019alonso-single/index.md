@@ -28,7 +28,7 @@ summary:
 title: "Single-trial classification of awareness state during anesthesia by measuring critical dynamics of global brain activity"
 url_code: 
 url_dataset: 
-url_pdf: https://www.nature.com/articles/s41598-019-41345-4
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""
