@@ -11,10 +11,8 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Decision Making
-- Computational Models
-- Data Science
 - Applied Statistics
+- Human Decision Making
 - Open Science
 organizations:
 - name: Universidad de Buenos Aires
@@ -42,4 +40,3 @@ title: Guillermo Solovey
 
 I am full-time professor at UBA and researcher at CONICET.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
