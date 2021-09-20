@@ -12,7 +12,8 @@ email: ""
 highlight_name: false
 interests:
 - Applied Statistics
-- Human Decision Making
+- Decision Making
+- Computational Models
 - Open Science
 organizations:
 - name: Universidad de Buenos Aires
@@ -38,5 +39,19 @@ superuser: true
 title: Guillermo Solovey
 ---
 
-I am full-time professor at UBA and researcher at CONICET.
+After obtaining a PhD. in Physics in Buenos Aires, I moved to New York to work on computational and 
+cognitive science as a posdoc at The Rockefeller Univeristy and then at Columbia University. Back to
+Argentina I joined CONICET as a researcher and since 2018 I am a Professor at the Universidad de Buenos
+Aires.
+
+I enjoy doing experiments, computational and statistical models to understand different aspects of 
+human behavior. Lately, I have a particular interest in how we humans update beliefs when 
+faced with new evidence and how we judge whether a piece of information is veridical or not.
+
+Together with a team of outstanding collaborators and students from various fields, we have projects 
+on metacognition, social influence, fact-checking and polarization. 
+
+I'm also deeply involved in adopting and teaching high-standard open science and reproducible methods.
+
+
 
