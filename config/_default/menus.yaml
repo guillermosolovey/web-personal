@@ -16,6 +16,15 @@ main:
   - name: Courses
     url: courses/
     weight: 30
+  - name: Apps
+    url: apps/
+    weight: 31
+  - name: Media
+    url: media/
+    weight: 32
+  - name: Outreach
+    url: outreach/
+    weight: 33
   - name: Contact
     url: '#contact'
     weight: 40

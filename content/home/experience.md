@@ -30,7 +30,7 @@ experience:
     location: Buenos Aires, Argentina.
     date_start: '2018-05-01'
     date_end: ''
-    description: Data Science, Cognitive Science
+    description: Data and Cognitive Science
     
   - title: CONICET researcher
     company: Instituto de Cálculo, Concejo Nacional de Investigaciones Científicas y Técnicas.
@@ -39,7 +39,7 @@ experience:
     location: Buenos Aires, Argentina.
     date_start: '2014-05-01'
     date_end: ''
-    description: Data Science, Cognitive Science
+    description: Data and Cognitive Science
     
   - title: Posdoc, The Rockefeller University
     company: Marcelo Magnasco's lab
