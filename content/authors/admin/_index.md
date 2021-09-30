@@ -12,7 +12,8 @@ email: ""
 highlight_name: false
 interests:
 - Data Science
-- Behavioral and Cognitive Science
+- Data Analysys/Statistics
+- Behavioral/Cognitive Science
 - Reproducible Research
 - Online Experiments
 organizations:
